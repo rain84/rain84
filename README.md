@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🧑🏻‍💻 I am Aleks && also I ❤️ JS
+
+📫 You can reach me via [TG](https://t.me/rain_84)
+
+📆 Or you can schedule meeting via [Calendly](https://calendly.com/rainy_sky/30-60-min)
+
 <!--
 **rain84/rain84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
